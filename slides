@@ -1,0 +1,14 @@
+slides:
+  - about me
+  - introducing docker-compose - what it is, what it isn't, why is it needed
+    and what is it used for
+  - docker-compose history
+  - installing it on linux - apt and pip
+  - docker-compose file example and explanation of basic parts
+  - cli basics - using cli and getting help
+  - cli commands: up, ps, stop, start, down
+  - troubleshooting: version compatability,  ps, logs
+  - life demo, including docker-compose ps and application
+  - recap: the tool, why is it used, config file, easy, more help
+  - Questions
+
